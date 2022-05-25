@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "787062031346",
+    "firebase_url": "https://stakeholder-realtime-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "stakeholder-realtime",
+    "storage_bucket": "stakeholder-realtime.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787062031346:android:67f9edefee19928b1b216b",
+        "android_client_info": {
+          "package_name": "it.stakeholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787062031346-7h4boplgjsg7dfsjhskthl2186qj1ir0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1b3Iq9lyBYa5k2fH0GNehQVIJHHLo0UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787062031346-7h4boplgjsg7dfsjhskthl2186qj1ir0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
